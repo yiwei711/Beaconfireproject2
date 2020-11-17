@@ -1,0 +1,3 @@
+username: admin
+password: 12345678
+endpoint: database-1.cljov8rrfcqs.us-east-2.rds.amazonaws.com
